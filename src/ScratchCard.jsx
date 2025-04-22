@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './ScratchCard.css';
 
-const ScratchCard = ({onClick, children, label }) => {
+const ScratchCard = ({ children, label }) => {
   const [scratched, setScratched] = useState(false);
 
   const handleScratch = () => {
