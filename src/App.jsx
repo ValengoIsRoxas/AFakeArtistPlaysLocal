@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation, Navigate } from 'r
 function App() {
 
   return (
-    <Router>
+    <Router basename="/AFakeArtistPlaysLocal">
       <MainContent/>
     </Router>
   )
