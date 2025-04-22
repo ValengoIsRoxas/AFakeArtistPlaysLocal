@@ -1,0 +1,97 @@
+:root {
+  --primary-color: #546644;
+  --accent-color: #007BFF;
+  --accent-hover: #1967ac;
+  --font-main: "Montserrat", sans-serif;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%; /* Makes 1rem = 10px for easier calculations */
+}
+
+body {
+  font-size: 2rem;
+  min-height: 100vh;
+  background-color: var(--primary-color);
+  font-family: var(--font-main);
+  color: #fff;
+}
+
+span {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo {
+  font-weight: 700;
+  padding: var(--spacing-lg);
+  text-align: center;
+  font-size: 3.2rem;
+}
+
+input {
+  border-radius: 10px;
+  width: min(50%, 500px);
+  height: 50px;
+  margin: var(--spacing-sm);
+  font-size: 2.5rem;
+  text-align: center;
+  border: none;
+  padding: var(--spacing-sm);
+}
+
+button {
+  width: min(50%, 500px);
+  padding: var(--spacing-md) var(--spacing-lg);
+  font-size: 2.5rem;
+  font-weight: 600;
+  align-self: center;
+  margin-top: auto;
+  margin-bottom: 5%;
+  background-color: var(--accent-color);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--accent-hover);
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.game {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly; /* distribuye los elementos uniformemente */
+  gap: var(--spacing-lg);        /* añade espacio entre cada elemento */
+  padding: var(--spacing-md);
+  
+  font-size: 2.5rem;
+}
+
+@media (max-width: 768px) {
+  input,
+  button {
+    width: 80%;
+  }
+
+  html {
+    font-size: 56.25%; /* Slightly smaller on mobile */
+  }
+}

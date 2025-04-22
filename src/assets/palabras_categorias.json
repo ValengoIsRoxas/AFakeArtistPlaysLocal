@@ -1,0 +1,414 @@
+[
+  {
+    "palabra": "hamburguesa",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "pizza",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "sushi",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "taco",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "waluigi",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "mario",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "link",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "pikachu",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "cabaña",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "castillo",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "rascacielos",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "puente",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "delfín",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "perro",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "gato",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "jirafa",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "vaso",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "lápiz",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "mochila",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "teléfono",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "doctor",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "bombero",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "maestro",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "chef",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "playa",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "ciudad",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "montaña",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "bosque",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "camisa",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "pantalón",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "zapatillas",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "campera",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "auto",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "tren",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "barco",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "bicicleta",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "árbol",
+    "categoria": "naturaleza"
+  },
+  {
+    "palabra": "flor",
+    "categoria": "naturaleza"
+  },
+  {
+    "palabra": "roca",
+    "categoria": "naturaleza"
+  },
+  {
+    "palabra": "río",
+    "categoria": "naturaleza"
+  },
+  {
+    "palabra": "computadora",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "robot",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "internet",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "satélite",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "fútbol",
+    "categoria": "deporte"
+  },
+  {
+    "palabra": "tenis",
+    "categoria": "deporte"
+  },
+  {
+    "palabra": "natación",
+    "categoria": "deporte"
+  },
+  {
+    "palabra": "básquet",
+    "categoria": "deporte"
+  },
+  {
+    "palabra": "agua",
+    "categoria": "bebida"
+  },
+  {
+    "palabra": "jugo",
+    "categoria": "bebida"
+  },
+  {
+    "palabra": "café",
+    "categoria": "bebida"
+  },
+  {
+    "palabra": "té",
+    "categoria": "bebida"
+  },
+  {
+    "palabra": "hobbit",
+    "categoria": "ficción"
+  },
+  {
+    "palabra": "elfo",
+    "categoria": "ficción"
+  },
+  {
+    "palabra": "dragón",
+    "categoria": "ficción"
+  },
+  {
+    "palabra": "hechicero",
+    "categoria": "ficción"
+  },
+  {
+    "palabra": "chocolate",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "helado",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "pan",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "queso",
+    "categoria": "comida"
+  },
+  {
+    "palabra": "zelda",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "sonic",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "donkey kong",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "samus",
+    "categoria": "videojuegos"
+  },
+  {
+    "palabra": "choza",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "muralla",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "templo",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "iglú",
+    "categoria": "estructura"
+  },
+  {
+    "palabra": "oso",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "lobo",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "águila",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "pingüino",
+    "categoria": "animal"
+  },
+  {
+    "palabra": "silla",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "reloj",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "mesa",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "televisor",
+    "categoria": "objeto"
+  },
+  {
+    "palabra": "piloto",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "albañil",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "cantante",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "enfermero",
+    "categoria": "persona"
+  },
+  {
+    "palabra": "desierto",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "selva",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "pueblo",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "isla",
+    "categoria": "lugar"
+  },
+  {
+    "palabra": "falda",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "sombrero",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "guantes",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "bufanda",
+    "categoria": "ropa"
+  },
+  {
+    "palabra": "camión",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "subte",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "avión",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "monopatín",
+    "categoria": "transporte"
+  },
+  {
+    "palabra": "cueva",
+    "categoria": "naturaleza"
+  },
+  {
+    "palabra": "volcán",
+    "categoria": "naturaleza"
+  },
+  {
+    "palabra": "nube",
+    "categoria": "naturaleza"
+  },
+  {
+    "palabra": "drone",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "cámara",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "consola",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "pantalla",
+    "categoria": "tecnología"
+  },
+  {
+    "palabra": "hockey",
+    "categoria": "deporte"
+  },
+  {
+    "palabra": "golf",
+    "categoria": "deporte"
+  },
+  {
+    "palabra": "boxeo",
+    "categoria": "deporte"
+  },
+  {
+    "palabra": "rugby",
+    "categoria": "deporte"
+  }
+]
