@@ -15,7 +15,6 @@ const Game = () => {
   const [palabraSecreta, setPalabraSecreta] = useState();
   const [buttonText, setButtonText] = useState("Siguiente!");
   const imitadorIndex = useRef(Math.floor(Math.random() * (players))+1);
-  const [scratched, setScratched] = useState(false);
 
   // Función para elegir un elemento al azar
   const elegirPalabra = () => {
@@ -79,7 +78,7 @@ const Game = () => {
     
     <div className='game'>
       
-      <ScratchCard key={`scratch-${currentPlayer}`} onClick={() => setScratched(true)}>
+      <ScratchCard key={`scratch-${currentPlayer}`}> 
         <h1>¡Hola Jugador {currentPlayer}!</h1>
         <p>Sos un {rol}</p>
         <p>La categoría es: {categoria}</p>

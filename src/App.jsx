@@ -1,12 +1,12 @@
 import PlayerSelection from "./PlayerSelection"
 import Game from "./Game";
-import { BrowserRouter as Router, Routes, Route, useLocation, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 function App() {
 
   return (
-    <Router basename="/AFakeArtistPlaysLocal">
+    <Router>
       <MainContent/>
     </Router>
   )
