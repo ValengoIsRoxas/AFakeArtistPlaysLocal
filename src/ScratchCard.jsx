@@ -1,11 +1,14 @@
 import React, { useState } from 'react';
 import './ScratchCard.css';
 
-const ScratchCard = ({ children, label }) => {
+const ScratchCard = ({ children, label, onScratch }) => {
   const [scratched, setScratched] = useState(false);
 
   const handleScratch = () => {
     setScratched(true);
+    if (typeof onScratch === 'function') {
+      onScratch();
+    }
   };
 
   return (
